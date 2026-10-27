@@ -1,0 +1,11 @@
+{
+  "name": "tizenbrew-hdmi",
+  "version": "0.1.0",
+  "description": "Full-screen photo, clock and HDMI 2 status. Returns here when the console on HDMI 2 turns off.",
+  "packageType": "app",
+  "appName": "TV Home",
+  "appPath": "app/index.html",
+  "serviceFile": "service.js",
+  "keys": ["ColorF3Blue"],
+  "license": "MIT"
+}
